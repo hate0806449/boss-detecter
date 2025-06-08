@@ -1,0 +1,6 @@
+# requirements.txt - 依賴套件列表
+opencv-python>=4.5.0
+numpy>=1.21.0
+face-recognition>=1.3.0
+Pillow>=8.3.0
+pyautogui>=0.9.0
